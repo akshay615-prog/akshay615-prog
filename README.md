@@ -34,6 +34,24 @@ I enjoy learning by building projects, experimenting with technologies, solving 
 
 ---
 
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=akshay615-prog&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=akshay615-prog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Akshay's GitHub Stats"
+  />
+</p>
+
 ## 🛠️ Languages & Technologies
 
 ### 💻 Languages
@@ -160,11 +178,74 @@ A collection of programming practice and problem-solving work.
 
 ---
 
+---
+
+---
+
+---
+
 ## 🎯 Current Focus
 
-```text
-DSA             ███████████████░░░  Learning
-Full-Stack      ████████████████░░  Building
-AI / ML         ████████████░░░░░░  Exploring
-Web3            ██████████░░░░░░░░  Exploring
-Projects        █████████████████░  Building
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 DSA
+**Learning & Practicing**
+
+Solving programming problems using **C++, Python and Java** while improving problem-solving and algorithmic thinking.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Full-Stack
+**Building Projects**
+
+Creating real-world web projects with **HTML, CSS and JavaScript**, while gradually moving toward backend development.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI / ML
+**Exploring & Building**
+
+Working on **Smart Greenhouse AI** and learning how machine learning can be applied to real-world problems.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⛓️ Web3
+**Learning the Fundamentals**
+
+Exploring **Blockchain, Ethereum and Solana** while building a foundation in Web3 development.
+
+</td>
+</tr>
+</table>
+
+### 🚀 What's Next
+
+- [x] Build **Smart Greenhouse AI**
+- [x] Build **TaskFlow**
+- [x] Build **PyLearn**
+- [x] Practice DSA with C++, Python & Java
+- [ ] Build a full-stack project with a backend
+- [ ] Go deeper into AI/ML
+- [ ] Learn Solidity & smart contract development
+
+> **Learn → Build → Debug → Improve → Repeat ⚡**
+
+**Exploring**
+
+![Web3](https://img.shields.io/badge/Progress-50%25-06B6D4?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+> ⚡ **Learn → Build → Debug → Improve → Repeat**
