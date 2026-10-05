@@ -1,14 +1,19 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=AKSHAY&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=CSE%20(Data%20Science)%20%7C%20Developer%20%7C%20Builder&descAlignY=65&descSize=18" width="100%"/>
+
 # 👋 Hi, I'm Akshay
 
 ### 💻 CSE (Data Science) Student • Full-Stack Developer • AI/ML Explorer • Web3 Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+real-world+projects+%F0%9F%9A%80;Learning+Full-Stack+Development+%F0%9F%92%BB;Exploring+AI%2FML+%F0%9F%A4%96;Exploring+Web3+%26+Blockchain+%E2%9B%93%EF%B8%8F;Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Repeat" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+real-world+projects+%F0%9F%9A%80;Learning+Full-Stack+Development+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Exploring+Web3+%26+Blockchain+%E2%9B%93%EF%B8%8F;Code+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Improve" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=akshay615-prog&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshay615-prog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-undefined-351487379/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avem780/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/akshayveer615)
 
 </div>
 
@@ -18,7 +23,7 @@
 
 I'm **Akshay**, a Computer Science Engineering student specializing in **Data Science**.
 
-I enjoy building real-world projects, learning new technologies, solving programming problems, and turning ideas into working products.
+I enjoy learning by building projects, experimenting with technologies, solving programming problems, and turning ideas into working products.
 
 - 🎓 CSE (Data Science) student
 - 💻 Focused on Full-Stack Development
@@ -29,31 +34,27 @@ I enjoy building real-world projects, learning new technologies, solving program
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Technologies
 
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" />
 </p>
 
-### ⚙️ Tools & Technologies
+### 🔧 Tools & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### 🤖 AI / ML & Data
+### 🧪 Exploring
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,tensorflow" />
 </p>
 
-### ⛓️ Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=solidity,ethereum" />
-</p>
+> Currently learning and exploring these technologies rather than claiming expertise in all of them.
 
 ---
 
@@ -61,85 +62,109 @@ I enjoy building real-world projects, learning new technologies, solving program
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🌱 Smart Greenhouse AI
 
-AI-powered greenhouse system for crop identification, crop information, image analysis, and smart greenhouse monitoring.
+AI-powered greenhouse project focused on:
 
-**AI/ML • Python • TensorFlow • JavaScript**
+- 🌱 Crop identification
+- 🔍 Image analysis
+- 📚 Crop encyclopedia
+- 🌡️ Environmental monitoring
+- 🤖 AI/ML-based analysis
+
+**Tech:** Python • TensorFlow • JavaScript • AI/ML
+
+<br>
+
+<a href="https://github.com/akshay615-prog/smart-greenhouse">
+<img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
+
+<td width="50%">
+
+### 🐍 PyLearn
+
+Interactive Python learning platform featuring:
+
+- 📚 Programming notes
+- 🧠 Quizzes
+- 💻 Practice
+- 🏆 Progress tracking
+- 🐍 Python fundamentals
+
+**Tech:** HTML • CSS • JavaScript • Python
+
+<br>
+
+<a href="https://github.com/akshay615-prog/Pylearn">
+<img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 
 ### ✅ TaskFlow
 
-Modern task management web application with task tracking, priorities, due dates, search, and task statistics.
+Modern task management web application with:
 
-**HTML • CSS • JavaScript**
+- 📝 Task management
+- 🎯 Priorities
+- 📅 Due dates
+- 🔎 Search
+- 📊 Task statistics
+- 🌙 Dark / Light mode
+
+**Tech:** HTML • CSS • JavaScript
+
+<br>
+
+<a href="https://github.com/akshay615-prog/smart-todo-list">
+<img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### 💻 Coding Practice
 
-Programming practice and problem-solving using C++, Python, Java and DSA.
+A collection of programming practice and problem-solving work.
 
-**C++ • Python • Java • DSA**
+- C++
+- Python
+- Java
+- DSA
 
-</td>
+**Learning by solving, debugging and improving.**
 
-<td width="50%">
+<br>
 
-### 🧠 What I'm Building
-
-Currently focused on:
-
-- Full-Stack Development
-- AI / Machine Learning
-- Web3 & Blockchain
-- Data Structures & Algorithms
-
-**Learn • Build • Improve**
+<a href="https://github.com/akshay615-prog/coding-practice">
+<img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Focus
 
-<p align="center">
-
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="YOUR_INSTAGRAM_LINK">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="YOUR_HACKERRANK_LINK">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black">
-</a>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshay615-prog/akshay615-prog/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshay615-prog/akshay615-prog/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/akshay615-prog/akshay615-prog/output/github-contribution-grid-snake.svg">
-</picture>
+```text
+DSA             ███████████████░░░  Learning
+Full-Stack      ████████████████░░  Building
+AI / ML         ████████████░░░░░░  Exploring
+Web3            ██████████░░░░░░░░  Exploring
+Projects        █████████████████░  Building
